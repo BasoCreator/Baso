@@ -1,0 +1,27 @@
+selected_range  : RGB(87, 87, 87)
+selected_menu   : RGB(63, 63, 179)
+pair            : RGB(223, 223, 223)
+bgr             : RGB(63, 63, 63)
+line_num        : RGB(179, 179, 179)
+line_edit_sep   : RGB(95, 95, 95)
+edit_bgr        : RGB(32, 32, 32)
+bar_bgr         : RGB(63, 63, 63)
+bar_edge        : RGB(95, 95, 95)
+bar_moving      : RGB(127, 127, 127)
+status          : RGB(215, 215, 215)
+normal_text     : RGB(215, 215, 215)
+comment         : RGB(255, 127, 127)
+number          : RGB(255, 127, 127)
+operator        : RGB(255, 127, 127)
+quote           : RGB(0, 199, 255)
+pattern         : RGB(0, 199, 255)
+brace           : RGB(0, 255, 255)
+keyword         : RGB(0, 223, 0)
+is_dark_mode    : 1
+max_line        : 24
+max_column      : 80
+tab_space       : 4
+font_size       : 10
+is_wide_font    : 1
+is_fixed_line   : 0
+line_height     : 19

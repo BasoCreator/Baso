@@ -1,9 +1,6 @@
-The source code is private.
+I have no plans to upload the source code. 
 
-Usage and donation are at the user's discretion.
-
-(To be honest, figuring out how to receive international donations feels way harder than developing the program itself! 
-My contact info is in the attached files. If you know a good way to help me set this up, please check the file and reach out!)
+It is free to use, and it is also free for each individual to donate.
 
 System Requirements
 - CPU : Intel Processor

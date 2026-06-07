@@ -29,7 +29,14 @@ The screen does not redraw automatically.
 You must close the window and run it again for it to execute with the 
 configured values.
 
-5. If any troubles
+5. Recommanded Configuration
+
+Download the '05.Config(Dark).txt' file for Dark Mode or the 
+'06.Config(White).txt' file for White Mode.
+
+Rename the downloaded file to 'Config.txt'.
+
+6. If any troubles
 
 Delete '~Config', '~FontName', '~WinPos' files.
 

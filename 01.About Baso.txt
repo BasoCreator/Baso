@@ -1,0 +1,4 @@
+< About Baso >
+
+It is a simple text editor for C or JavaScript.
+It emphasizes only simple syntax.

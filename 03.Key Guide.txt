@@ -1,0 +1,35 @@
+< Key Guide >
+
+Home, End, Left, Right, Up, Down
+PageUp, PageDown
+Tab, Enter, Delete, Backspace
+
+F1  : Undo
+F2  : Redo
+F3  : Find
+F5  : Replace
+
+Shift+
+    Home, End, Left, Right, Up, Down, PageUp, PageDown
+
+Ctrl+
+    Home, End, Left, Right, Down, Wheel
+    A : Select All
+    B : Bookmark Toggle
+    C : Copy
+    V : Paste
+    X : Cut
+    P : View Pair. (), {}, []
+    F : Popup Window - Find + Replace
+    G : Popup Window - Goto
+    K : Popup Window - Bookmark
+    M : Menu Focusing (You can use Left or Right Arrow)
+
+Ctrl+Shit+
+    Home, End, Left, Right
+
+Alt+ 
+    F4 : Exit App
+
+< Drag and Drop from Explorer >
+    Can open file

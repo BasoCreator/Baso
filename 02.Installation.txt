@@ -1,0 +1,6 @@
+< Installation >
+
+Create an app folder and move the downloaded 'Baso.exe' file there, or 
+download it directly.
+
+If you want to change the default settings, refer to Configuretion.txt.

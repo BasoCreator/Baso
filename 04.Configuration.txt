@@ -1,0 +1,33 @@
+< Configuration >
+
+1. If you have already done configuration, you may need backup
+    - Config.txt
+    - ConfigFontName.txt
+
+2. Make Config File
+
+1) Click Menu : Etc->Make Config File
+
+2) In your App directory, you can find files.
+    - Config.txt
+    - ConfigFontName.txt
+
+3. Edit
+
+You can see default settings.
+You can change and save.
+
+1) RGB means Color
+
+2) Etc
+    - is_dark_mode : 1 = dark mode, 0 = white mode
+
+4. Set Config
+
+The screen is redrawn automatically.
+
+5. If any troubles
+
+Delete '~Config', '~FontName', '~WinPos' files.
+
+It makes initial state.

@@ -6,3 +6,4 @@ Usage and donation are at the user's discretion.
 My contact info is in the attached files. If you know a good way to help me set this up, please check the file and reach out!)
 
 This software was used on MS Windows 10.
+<img width="702" height="525" alt="Sample" src="https://github.com/user-attachments/assets/27da0378-af3e-4013-a760-7d6f2c2eba74" />

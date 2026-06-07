@@ -6,7 +6,7 @@
 
 2. Get Internal Configuration Files
 
-1) Click Menu : Etc->Make Config File
+1) Click Menu : Etc > Make Config File
 
 2) In your App directory, you can find files.
     - Config.txt
@@ -24,7 +24,7 @@ You can change and save.
 
 4. Set Config
 
-1) Click Menu : Etc->Make Config File
+1) Click Menu : Etc > Set Config
 
 2) Restart App
 

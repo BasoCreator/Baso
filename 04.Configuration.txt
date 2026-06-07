@@ -24,7 +24,10 @@ You can change and save.
 
 4. Set Config
 
-The screen is redrawn automatically.
+The screen does not redraw automatically.
+
+You must close the window and run it again for it to execute with the 
+configured values.
 
 5. If any troubles
 

@@ -4,7 +4,7 @@
     - Config.txt
     - ConfigFontName.txt
 
-2. Make Config File
+2. Get Internal Configuration Files
 
 1) Click Menu : Etc->Make Config File
 
@@ -12,7 +12,7 @@
     - Config.txt
     - ConfigFontName.txt
 
-3. Edit
+3. Edit Configuration Files.
 
 You can see default settings.
 You can change and save.
@@ -23,6 +23,10 @@ You can change and save.
     - is_dark_mode : 1 = dark mode, 0 = white mode
 
 4. Set Config
+
+1) Click Menu : Etc->Make Config File
+
+2) Restart App
 
 The screen does not redraw automatically.
 
